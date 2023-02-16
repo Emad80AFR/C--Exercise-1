@@ -1,0 +1,15 @@
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\bin\Debug\net6.0\C-sharp.Exercises.exe
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\bin\Debug\net6.0\C-sharp.Exercises.deps.json
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\bin\Debug\net6.0\C-sharp.Exercises.runtimeconfig.json
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\bin\Debug\net6.0\C-sharp.Exercises.dll
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\bin\Debug\net6.0\C-sharp.Exercises.pdb
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\C-sharp.Exercises.csproj.AssemblyReference.cache
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\C-sharp.Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\C-sharp.Exercises.AssemblyInfoInputs.cache
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\C-sharp.Exercises.AssemblyInfo.cs
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\C-sharp.Exercises.csproj.CoreCompileInputs.cache
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\C-sharp.Exercises.dll
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\refint\C-sharp.Exercises.dll
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\C-sharp.Exercises.pdb
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\C-sharp.Exercises.genruntimeconfig.cache
+C:\Users\EM-PC\source\repos\C-sharp.Exercises\C-sharp.Exercises\obj\Debug\net6.0\ref\C-sharp.Exercises.dll
